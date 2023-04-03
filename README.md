@@ -1,6 +1,7 @@
 # Emissions_Project
 ***
-By: Nicolas Martinez-Gonzalez /n
+By: Nicolas Martinez-Gonzalez 
+
 Supervised by: Dr Nazanin Khazra
 ***
 ![image](https://user-images.githubusercontent.com/123042849/229584388-d9e30e4f-7ab4-4344-a189-d116fa91137c.png)
